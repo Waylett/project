@@ -1,0 +1,5 @@
+@CHARSET "ISO-8859-1";
+img {
+    border-style: solid;
+    border-color: #ff0000 #0000ff;
+}

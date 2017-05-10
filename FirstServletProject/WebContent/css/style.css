@@ -1,0 +1,29 @@
+
+#map {
+  width: 600px;
+  float:left;
+}
+
+.area{
+    fill: #C0C0C0;
+    stroke: none;
+}
+
+.boundary {
+    fill: none;
+    stroke: #777;
+}
+
+.selected {
+    fill: #fff;
+    stroke: #777;
+    stroke-dasharray: 2,2;
+    stroke-linejoin: round;
+}
+#myTable {
+	position:relative;
+	float:left;
+	top:200px;
+	background-color: #e7e7e7;
+	
+}
